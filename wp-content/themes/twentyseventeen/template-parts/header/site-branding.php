@@ -9,10 +9,10 @@
  */
 
 ?>
-<div class="site-branding">
+<div class="site-branding"> 
 	<div class="wrap">
 
-		<?php the_custom_logo(); ?>
+		<?php the_custom_logo(); ?>  @
 
 		<div class="site-branding-text">
 			<?php if ( is_front_page() ) : ?>
